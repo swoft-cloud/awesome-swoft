@@ -74,14 +74,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Tasks, Commands and Scheduling
 
-* [swoft-task](hhttps://github.com/swoft-cloud/swoft-task) - Task Compoment for Swoft
+* [swoft-task](https://github.com/swoft-cloud/swoft-task) - Task Compoment for Swoft
 
 ##### Payments
 
-
-
 ##### Optimization
 
+* [swoft-aop-cache](https://github.com/limingxinleo/swoft-aop-cacheable) - Aop Cache for Swoft
 
 ##### Monitoring
 

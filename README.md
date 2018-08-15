@@ -81,6 +81,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Optimization
 
 * [swoft-aop-cache](https://github.com/limingxinleo/swoft-aop-cacheable) - Aop Cache for Swoft
+* [swoft-entity-cache](https://github.com/limingxinleo/swoft-entity-cache) - Entity Cache for Swoft
 
 ##### Monitoring
 

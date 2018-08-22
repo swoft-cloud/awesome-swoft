@@ -76,6 +76,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [swoft-task](https://github.com/swoft-cloud/swoft-task) - Task Compoment for Swoft
 
+##### RateLimiter
+
+* [swoft-rate-limiter](https://github.com/zcmzc/swoft-rate-limiter) - RateLimiter Compoment for Swoft
+
+##### Encrypt
+
+* [swoft-encrypt](https://github.com/zcmzc/swoft-encrypt) - Encrypt Compoment for Swoft
+
 ##### Payments
 
 ##### Optimization
@@ -112,6 +120,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Articles, Tutorials, Blogs etc.
 
 * [Swoft special](https://segmentfault.com/blog/swoft)
+* [手把手教你用Swoft](https://zcmzcm.org/cate/zcmzcm/Swoft)
 
 ## Videos
 

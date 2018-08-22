@@ -42,6 +42,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Developer Tools
 
+* [swoft-cloud/swoft-devtool](https://github.com/swoft-cloud/swoft-devtool) - Devtool Compoment for Swoft
 
 
 ##### Testing & Debugging
@@ -49,21 +50,17 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Authentication & Authorization
 
-
+* [swoft-cloud/swoft-auth](https://github.com/swoft-cloud/swoft-auth) - Auth Compoment for Swoft
 
 ##### Utilities
-
 
 
 ##### Media & Document Management
 
 
-##### Integration with Javascript
-
-
-
 ##### Databases, ORMs, Migrations & Seeding
 
+* [swoft-cloud/swoft-db](https://github.com/swoft-cloud/swoft-db) - DB Compoment for Swoft
 
 ##### Search
 
@@ -71,28 +68,27 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### APIs
 
 
-
 ##### Tasks, Commands and Scheduling
 
-* [swoft-task](https://github.com/swoft-cloud/swoft-task) - Task Compoment for Swoft
+* [swoft-cloud/swoft-task](https://github.com/swoft-cloud/swoft-task) - Task Compoment for Swoft
 
 ##### RateLimiter
 
-* [swoft-rate-limiter](https://github.com/zcmzc/swoft-rate-limiter) - RateLimiter Compoment for Swoft
+* [zcmzc/swoft-rate-limiter](https://github.com/zcmzc/swoft-rate-limiter) - RateLimiter Compoment for Swoft
 
 ##### Encrypt
 
-* [swoft-encrypt](https://github.com/zcmzc/swoft-encrypt) - Encrypt Compoment for Swoft
+* [zcmzc/swoft-encrypt](https://github.com/zcmzc/swoft-encrypt) - Encrypt Compoment for Swoft
 
 ##### Payments
 
+
 ##### Optimization
 
-* [swoft-aop-cache](https://github.com/limingxinleo/swoft-aop-cacheable) - Aop Cache for Swoft
-* [swoft-entity-cache](https://github.com/limingxinleo/swoft-entity-cache) - Entity Cache for Swoft
+* [limingxinleo/swoft-aop-cache](https://github.com/limingxinleo/swoft-aop-cacheable) - Aop Cache for Swoft
+* [limingxinleo/swoft-entity-cache](https://github.com/limingxinleo/swoft-entity-cache) - Entity Cache for Swoft
 
 ##### Monitoring
-
 
 
 ##### Localization

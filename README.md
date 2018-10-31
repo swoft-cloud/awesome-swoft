@@ -54,6 +54,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Utilities
 
+* [huangzhhui/github-bot](https://github.com/huangzhhui/github-bot) - A robot that helps manage your Github project, the robot based on Swoft.
 
 ##### Media & Document Management
 

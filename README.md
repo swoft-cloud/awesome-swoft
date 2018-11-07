@@ -81,6 +81,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [zcmzc/swoft-encrypt](https://github.com/zcmzc/swoft-encrypt) - Encrypt Compoment for Swoft
 
+##### Tcp and Udp
+
+* [wp-breeder/swoft-socket](https://github.com/wp-breeder/swoft-socket) - Socket Compoment for Swoft
+
 ##### Payments
 
 
@@ -105,6 +109,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Migration Database
 
 * [256mywind/migration](https://github.com/256mywind/migration) - Migration database for Swoft
+
 
 
 ## Development Setup

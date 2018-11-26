@@ -62,6 +62,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Databases, ORMs, Migrations & Seeding
 
 * [swoft-cloud/swoft-db](https://github.com/swoft-cloud/swoft-db) - DB Compoment for Swoft
+* [limingxinleo/swoft-entity-event](https://github.com/limingxinleo/swoft-entity-event) - Entity Event Listener
 
 ##### Search
 

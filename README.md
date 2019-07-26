@@ -1,8 +1,11 @@
-# Awesome Swoft [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/wujunze/awesome-swoft/master.svg?style=flat)](https://travis-ci.org/wujunze/awesome-swoft)
+# Awesome Swoft
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Swoft ecosystem.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://img.shields.io/travis/swoft-cloud/awesome-swoft/master.svg?style=flat)](https://travis-ci.org/swoft-cloud/awesome-swoft)
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Swoft ecosystem.
+
+> Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 
@@ -28,7 +31,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Essentials
 
-* [Swoft](https://github.com/swoft-cloud/swoft) ([Documentation](https://doc.swoft.org/master/zh-CN/quickstart/development.html))
+* [Swoft](https://github.com/swoft-cloud/swoft) ([Documentation](https://swoft.org/docs))
 
 
 ## Packages

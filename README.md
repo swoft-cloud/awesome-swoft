@@ -85,6 +85,10 @@ A curated list of awesome bookmarks, packages, tutorials, videos and other cool 
 
 * [zcmzc/swoft-encrypt](https://github.com/zcmzc/swoft-encrypt) - Encrypt Compoment for Swoft
 
+##### Tcp and Udp
+
+* [wp-breeder/swoft-socket](https://github.com/wp-breeder/swoft-socket) - Socket Compoment for Swoft
+
 ##### Payments
 
 
@@ -109,6 +113,7 @@ A curated list of awesome bookmarks, packages, tutorials, videos and other cool 
 ##### Migration Database
 
 * [256mywind/migration](https://github.com/256mywind/migration) - Migration database for Swoft
+
 
 
 ## Development Setup

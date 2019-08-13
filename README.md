@@ -115,6 +115,8 @@ A curated list of awesome bookmarks, packages, tutorials, videos and other cool 
 * [256mywind/migration](https://github.com/256mywind/migration) - Migration database for Swoft
 
 
+##### Eureka Sidecar
+* [gyoung/eureka-sidecar](https://github.com/guoyoung/eureka-sidecar) - Eureka sidecar for Swoft
 
 ## Development Setup
 

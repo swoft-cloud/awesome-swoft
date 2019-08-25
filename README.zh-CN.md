@@ -100,6 +100,8 @@
 
 ##### 第三方服务集成
 
+##### 分布式锁
+* [happysir/distributed-lock](https://github.com/SuperHappysir/distributed-lock) - 适用于Swoft的Redis 分布式锁组件
 
 ##### 查看
 

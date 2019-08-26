@@ -1,0 +1,29 @@
+{
+  "name": "swoft/amqp",
+  "type": "library",
+  "version": "v2.0.5",
+  "keywords": [
+    "php",
+    "swoole",
+    "swoft"
+  ],
+  "description": "micro-service framework base on swoole",
+  "authors": [
+    {
+      "name": "Meteor",
+      "email": "liuxin.yx@qq.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "require": {
+    "php": ">7.1",
+    "swoft/stdlib": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Swoft\\Amqp\\": "src/"
+    }
+  },
+  "repositories": {
+  }
+}

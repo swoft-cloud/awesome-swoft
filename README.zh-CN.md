@@ -7,6 +7,8 @@
 
 > 灵感来自[ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+## [English](README.md)
+
 ## 目录
 
  -  [必需品](#essentials)
@@ -45,6 +47,7 @@
 ##### 开发者工具
 
 * [swoft-cloud/swoft-devtool](https://github.com/swoft-cloud/swoft-devtool) -  Swoft的Devtool Compoment
+* [swoft-cloud/swoft-cli](https://github.com/swoft-cloud/swoft-cli) - 开发辅助工具，提供自动重启，类文件生成，项目创建等功能
 * [ctfang/swoft-admin](https://github.com/ctfang/swoft-admin) -  Swoft的WebtTool Compoment
 
 

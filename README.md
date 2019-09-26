@@ -7,6 +7,8 @@ A curated list of awesome bookmarks, packages, tutorials, videos and other cool 
 
 > Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+## [中文版本](./README.zh-CN.md)
+
 ## Table of Contents
 
 - [Essentials](#essentials)

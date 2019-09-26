@@ -45,6 +45,7 @@
 ##### 开发者工具
 
 * [swoft-cloud/swoft-devtool](https://github.com/swoft-cloud/swoft-devtool) -  Swoft的Devtool Compoment
+* [ctfang/swoft-admin ](https://github.com/ctfang/swoft-admin) -  Swoft的WebtTool Compoment
 
 
 ##### 测试和调试

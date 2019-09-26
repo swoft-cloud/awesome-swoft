@@ -46,6 +46,7 @@ A curated list of awesome bookmarks, packages, tutorials, videos and other cool 
 ##### Developer Tools
 
 * [swoft-cloud/swoft-devtool](https://github.com/swoft-cloud/swoft-devtool) - Devtool Compoment for Swoft
+* [ctfang/swoft-admin ](https://github.com/ctfang/swoft-admin) -  WebtTool Compoment for Swoft
 
 
 ##### Testing & Debugging

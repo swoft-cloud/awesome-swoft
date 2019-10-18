@@ -39,6 +39,7 @@
 ## 包
 
 * [Packagist](https://packagist.org/)
+* [rpr/swoft-sentry](https://packagist.org/packages/rpr/swoft-sentry) -  Swoft的Sentry日志上报插件
 
 ## 热门套餐
 

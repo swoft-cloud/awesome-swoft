@@ -39,6 +39,7 @@ A curated list of awesome bookmarks, packages, tutorials, videos and other cool 
 ## Packages
 
 * [Packagist](https://packagist.org/)
+* [rpr/swoft-sentry](https://packagist.org/packages/rpr/swoft-sentry) -  Sentry plugin for Swoft
 
 
 ## Popular Packages
